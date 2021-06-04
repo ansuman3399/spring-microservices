@@ -11,8 +11,6 @@ import lombok.Setter;
 @Getter
 @Setter
 public class Configuration {
-
 	private int minimum;
 	private int maximum;
-
 }
